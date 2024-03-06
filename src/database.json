@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "first_name": "mona",
+            "last_name": "eid",
+            "email": "mona@gmail.com",
+            "password": "123",
+            "phone": "01029388867"
+        }
+    ],
+    "projects": [
+        {
+            "title": "crowd funding",
+            "details": "commercial project",
+            "target": 2400.0,
+            "start_date": "2023-05-06",
+            "end_date": "2023-06-07",
+            "user_email": "mona@gmail.com"
+        }
+    ]
+}
